@@ -8,9 +8,9 @@ import openpyxl.utils.exceptions
 import sys
 import pathlib
 
-input_file = input('enter the name of the excel file to process : ')
+input_file = input('enter the name (along with .xlsx extension) of the excel file to process : ')
 name_of_sheet = input(f"enter the name of the sheet to be processed in the excel file '{input_file}' : ")
-save_file = input(f"enter the file name under which you want to save the contents of the processed excel sheet '{input_file}' : ")
+save_file = input(f"enter the file name (along with .xlsx extension) under which you want to save the processed excel sheet '{input_file}' : ")
 
 extension = pathlib.Path(save_file).suffix        #finding the extension of 'save_file'
 if extension != '.xlsx':
