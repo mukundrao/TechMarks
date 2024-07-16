@@ -19,7 +19,7 @@ Steps to setup the project:
 8. Run the main.py file using the IDE GUI or if using the terminal, run the command python main.py
 9. Give the necessary inputs
 10. Wait for the mails to be sent...the processed marksheet can be viewed in the project folder 
-11. Verify that the mails have been sent and the marksheet has been processed correctly
+11. Verify that the mails have been sent and the marksheet has been processed correctly...it takes around 4 seconds to mail 1 student
 
 Steps to obtain 'sagpwd' - app password for Sender's Google Account:
 
