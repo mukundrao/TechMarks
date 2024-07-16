@@ -31,9 +31,10 @@ Steps to obtain 'sagpwd' - app password for Sender's Google Account:
 6. Copy the app password generated to be saved as a system environment variable under the name - 'sagpwd'
 
 Python Libraries to be Installed :
-• numpy
-• openpyxl
-• matplotlib
-• smtplib
+
+1. numpy
+2. openpyxl
+3. matplotlib
+4. smtplib
 
 
