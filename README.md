@@ -20,6 +20,7 @@ Steps to setup the project:
 9. Give the necessary inputs
 10. Wait for the mails to be sent...the processed marksheet can be viewed in the project folder 
 11. Verify that the mails have been sent and the marksheet has been processed correctly...it takes around 4 seconds to mail 1 student
+12. Hurray! You've set up the project on your local system!
 
 Steps to obtain 'sagpwd' - app password for Sender's Google Account:
 
